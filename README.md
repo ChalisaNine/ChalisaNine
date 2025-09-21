@@ -1,4 +1,5 @@
-## Hi there 👋
+## chalisa kengkaewpennapa 
+## fourth-year student majoring in Software Engineering at the Faculty of Information and Communication Technology, Mahidol University
 
 <!--
 **ChalisaNine/ChalisaNine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
